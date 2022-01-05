@@ -1,2 +1,5 @@
 # JbRealMusic.github.io
-JB
+JB Is a new and coming artist.
+
+# Contact
+jbcontacting888@gmail.com
